@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">R&amp;M Characters</string>
+    <string name="retry">Try again?</string>
+
+    <string name="connection_error">Interdimensional network is down</string>
+    <string name="connection_error_description">Looks like someone unplugged the cable. Check your Wi-Fi, or maybe you are in a dimension with no internet.</string>
+    <string name="api_error">Reality is glitching</string>
+    <string name="api_error_description">Ricks API is broken. He probably used it for something stupid. Try again later.</string>
+
+    <string name="database_error">Squanchys memory is gone</string>
+    <string name="database_error_description">Our database just imploded. It was a singularity blast. Lets try to reload the universe!</string>
+
+    <string name="not_found_error">Nothing found</string>
+    <string name="not_found_error_description">You are searching for something that does not exist. Morty, remember that time I looked for a good show on TV? Same energy.</string>
+
+    <string name="something_error">A complete Blamf</string>
+    <string name="something_error_description">Something went horribly wrong. It could be anything. Just tap the button below and pray to a god of your choice.</string>
+    <string name="search">Search</string>
+    <string name="icon_of_search">Icon of search</string>
+    <string name="filter_button">Filter button</string>
+    <string name="give_me_more_button">GIVE ME MORE</string>
+    <string name="well_i_thinks_thats_over_yet">Well... I thinks thats over... yet...</string>
+    <string name="i_dont_care_give_me_more_button">I DONT CARE GIVE ME MORE</string>
+    <string name="oh_noting_to_see_here">Oh...Noting to see here...you filters were very strict</string>
+    <string name="wait_its_not_too_long_i_guess">Wait...its not too long... I guess...</string>
+    <string name="only_basic_information_is_available">(Only basic information is available)</string>
+    <string name="demension">Demension</string>
+    <string name="name">Name</string>
+    <string name="unknown">Unknown</string>
+    <string name="n_a">N/A</string>
+    <string name="partial_info">Partial info</string>
+    <string name="episodes">Episodes</string>
+    <string name="participation_in_episodes">Participation in episodes:</string>
+    <string name="episodes_id_only">Episodes (ID only):</string>
+    <string name="no_information_about_participation_in_episodes">No information about participation in episodes.</string>
+    <string name="invalid_date">Invalid date</string>
+    <string name="error">Error</string>
+</resources>
